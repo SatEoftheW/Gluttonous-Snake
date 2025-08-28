@@ -7,4 +7,4 @@
 这是游戏截图  
 ![游戏截图](snake1.png)  
 ![游戏截图](snake2.png)  
-![游戏截图](snake3.png)
+
